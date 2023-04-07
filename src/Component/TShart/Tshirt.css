@@ -1,0 +1,11 @@
+.t-shirt{
+    border: 2px solid antiquewhite;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.t-shirt img{
+    padding: 15px;
+    border-radius: 15px;
+    margin-left: 15%;
+}

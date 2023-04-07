@@ -20,7 +20,7 @@ const router = createBrowserRouter([
       {
         path:"/",
         element:<Home></Home>,
-        loader:()=>fetch('https://raw.githubusercontent.com/ProgrammingHero1/t-shirt-data/main/tshirt.json')
+        loader:()=>fetch('tshirt.json')
       },
       {
         path:"review",
